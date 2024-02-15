@@ -9,7 +9,7 @@
 ## 
 ### Description
 This is a simple version of the space invaders arcade game using [PyGame](https://pypi.org/project/pygame/).
-All icons are copy right to [flaticon.com](https://www.flaticon.com/free-icons/).
+All icons are copy right to [flaticon.com](https://www.flaticon.com/).
 ![Space Invaders](./game.png)
 
 
